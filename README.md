@@ -8,5 +8,4 @@
 - 😄 Pronouns: W/Duncan
 
 ![star](https://github-readme-stats.vercel.app/api?username=a1779748&show_icons=true&count_private=true&hide=prs&theme=graywhite)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a1779748&hide=javascript,html,css)
