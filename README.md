@@ -3,7 +3,7 @@
 - :triangular_ruler: I’m currently studying in Uni Adl.
 - :dart: I’m currently learning Algorithm & DataStructure.
 - 💬 Ask me about basic stuff.
-- 📫 How to each me: [E-mail](wwmogu@gmail.com)
+- 📫 How to each me: [E-mail](https://www.wwmogu@gmail.com)
 - :zap: Blog: [Be Better](a1779748.github.io)
 - 😄 Pronouns: W/Duncan
 
