@@ -4,7 +4,7 @@
 - :dart: I’m currently learning Algorithm & DataStructure.
 - 💬 Ask me about basic stuff.
 - 📫 How to each me: [E-mail](https://www.wwmogu@gmail.com)
-- :zap: Blog: [Be Better](a1779748.github.io)
+- :zap: Blog: [Be Better](https://a1779748.github.io/)
 - 😄 Pronouns: W/Duncan
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a1779748&hide=javascript,html,css)
