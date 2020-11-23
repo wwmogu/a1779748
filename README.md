@@ -6,7 +6,7 @@
 - :triangular_ruler: I’m currently studying in Uni Adl.
 - :dart: I’m currently learning Algorithm & DataStructure.
 - 💬 Ask me about basic stuff.
-- 📫 How to reach me: [wwmogu@gmail.com](https://www.wwmogu@gmail.com)
+- 📫 How to reach me: [dongwang1998@gmail.com](https://www.dongwang1998@gmail.com)
 - :zap: Blog: [Be Better](https://a1779748.github.io/)
 - 😄 Pronouns: W/Duncan
 
@@ -30,7 +30,7 @@
 
 - 💬 Ask me about **basic stuff of c++ with ncurses**
 
-- 📫 How to reach me **wwmogu@gmail.com**
+- 📫 How to reach me **dongwang1998@gmail.com**
 
 - 😄 Pronouns: W/Duncan
 
