@@ -20,7 +20,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=a1779748&label=Profile%20views&color=0e75b6&style=flat" alt="a1779748" /> </p>
 
-- 🔭 I’m currently working on [Algorithm_DataStructure](https://github.com/a1779748/Algorithm_DataStructure)
+- 🔭 I’m currently struggliing on **HOW TO BALANCE LIFE AND STUDY**
+<!-- - 🔭 I’m currently working on [Algorithm_DataStructure](https://github.com/a1779748/Algorithm_DataStructure) -->
 
 - 🌱 I’m currently learning **Algorithm,DataStructure**
 
