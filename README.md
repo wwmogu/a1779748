@@ -23,7 +23,7 @@
 
   <br /> 
 
-<!-- <p align="center">
+<p align="center">
   <img align="center"  src="https://github-readme-stats.vercel.app/api?username=a1779748&theme=vue-dark&show_icons=true&locale=en" alt="a1779748" />
 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=a1779748&layout=compact&show_icons=true&locale=en&hide=''&langs_count=100" alt="a1779748" />
@@ -32,7 +32,7 @@
   
   <img src="https://activity-graph.herokuapp.com/graph?username=a1779748&theme=dracula&bg_color=20232a&hide_border=true" width="100%"/>
 
-</p> -->
+</p>
 
 
 
