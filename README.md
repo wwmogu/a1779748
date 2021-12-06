@@ -9,7 +9,7 @@
   
   
 
-  - 🔭 I’m currently struggliing on **HOW TO BALANCE LIFE AND STUDY**
+  - 🔭 Struggliing on **HOW TO BALANCE LIFE AND STUDY**
   <!-- - 🔭 I’m currently working on [Algorithm_DataStructure](https://github.com/a1779748/Algorithm_DataStructure) -->
 
   - 🌱 I’m currently learning **Algorithm and DataStructure**
