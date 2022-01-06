@@ -37,8 +37,11 @@
   <summary>Most Used Languages</summary>
   
   <p align="center">
-    <img height="50%" width="50%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=a1779748&layout=compact&show_icons=true&locale=en&hide=''&langs_count=100" alt="a1779748" />
-  </p>
+<!--     <img height="50%" width="50%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=a1779748&layout=compact&show_icons=true&locale=en&hide=''&langs_count=100" alt="a1779748" /> -->
+    <img height="15%" width="35%" align="center" src="https://api.githubtrends.io/user/svg/a1779748/langs?time_range=one_year&include_private=true&loc_metric=added" alt="a1779748" />
+    
+<!--     [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/a1779748/langs?time_range=one_year&include_private=true&loc_metric=added)](https://githubtrends.io)
+  </p> -->
 </details>
 
 
@@ -49,5 +52,6 @@
     <img src="https://activity-graph.herokuapp.com/graph?username=a1779748&theme=dracula&bg_color=20232a&hide_border=true" width="100%"/>
   </p>
 </details>
+
 
 
