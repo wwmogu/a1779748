@@ -9,20 +9,20 @@
   
   
 
-  - 🔭 Struggliing on **HOW TO BALANCE LIFE AND STUDY**
+  - 🔭 Struggliing on **HOW TO BALANCE STUDY AND LIFE**
   <!-- - 🔭 I’m currently working on [Algorithm_DataStructure](https://github.com/a1779748/Algorithm_DataStructure) -->
 
-  - 🌱 I’m currently learning **Algorithm and DataStructure**
+  - 🌱 I’m currently practicing **Algorithm and DataStructure** on LeetCode
 
   - 👨‍💻 All of my projects are available at [https://github.com/a1779748](https://github.com/a1779748)
 
-  <!-- - 📝 I regulary write articles on [Be Better](https://a1779748.github.io/) -->
+  - 📝 I'm planning to write articles on my [new personal website](https://dongwang.netlify.app/)
 
   <!-- - 💬 Ask me about **basic stuff of c++ with ncurses** -->
 
   - 📫 How to reach me **dongwang1998@gmail.com**
 
-  - 😄 Pronouns: W/Duncan
+  - 😄 Pronouns: W / Dong / Duncan
 </details>
   
 <details>
