@@ -44,14 +44,14 @@
   </p> -->
 </details>
 
-
+<!-- 
 <details>
   <summary>Contribution visualization</summary>
   
   <p align="center">
     <img src="https://activity-graph.herokuapp.com/graph?username=a1779748&theme=dracula&bg_color=20232a&hide_border=true" width="100%"/>
   </p>
-</details>
+</details> -->
 
 
 
