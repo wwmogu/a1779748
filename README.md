@@ -1,7 +1,7 @@
 
-<h1 align="center">Hi 👋, I'm Dong</h1>
+<h1 align="center">Hi 👋, This is Dong</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=a1779748&label=Profile%20views&color=0e75b6&style=flat" alt="a1779748" /> 
-<h3 align="center">A - S T U D E N T - in The University of Adelaide</h3>
+<h3 align="center">SWE @ ASTC</h3>
 
   
 <details>
