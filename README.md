@@ -19,7 +19,7 @@
 
   <!-- - 💬 Ask me about **basic stuff of c++ with ncurses** -->
 
-  - 📫 How to reach me **dongwang1998@gmail.com**
+  - 📫 Reach me at **dongwang1998@gmail.com**
 
   - 😄 Pronouns: W / Dong / Duncan
 </details>
