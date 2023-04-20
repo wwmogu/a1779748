@@ -13,15 +13,15 @@
 
 <!--   - 🌱 I’m currently practicing **Algorithm and DataStructure** on LeetCode -->
 
-  - 👨‍💻 All of my projects are available at [https://github.com/a1779748](https://github.com/a1779748)
+<!--   - 👨‍💻 All of my projects are available at [https://github.com/a1779748](https://github.com/a1779748) -->
 
 <!--   - 📝 I'm planning to write articles on my [new personal website](https://dongwang.netlify.app/) -->
 
   <!-- - 💬 Ask me about **basic stuff of c++ with ncurses** -->
 
-  - 📫 Reach me at **dongwang1998@gmail.com**
+  - 📫 Reach me at **wwmogu@gmail.com**
 
-  - 😄 Pronouns: W / Dong / Duncan
+  - 😄 Pronouns: W / Dong
 </details>
   
 <details>
