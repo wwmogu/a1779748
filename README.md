@@ -54,18 +54,18 @@
     <source
       media="(prefers-color-scheme: dark)"
       srcset="
-        https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg
+        https://raw.githubusercontent.com/a1779748/a1779748/65fd387c267f5a52ee056d2b69a3684c7a74b92c/github-a1779748-contribution.svg
       "
     />
     <source
       media="(prefers-color-scheme: light)"
       srcset="
-        https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg
+        https://raw.githubusercontent.com/a1779748/a1779748/65fd387c267f5a52ee056d2b69a3684c7a74b92c/github-a1779748-contribution.svg
       "
     />
     <img
       alt="github contribution grid snake animation"
-      src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+      src="https://raw.githubusercontent.com/a1779748/a1779748/65fd387c267f5a52ee056d2b69a3684c7a74b92c/github-a1779748-contribution.svg"
     />
   </picture>
 </details>
