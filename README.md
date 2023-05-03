@@ -21,7 +21,7 @@
 
   - 📫 Reach me at **wwmogu@gmail.com**
 
-  - 😄 Pronouns: he
+  - 😄 Pronouns: he / him
 </details>
   
 <details>
