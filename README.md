@@ -21,7 +21,7 @@
 
   - 📫 Reach me at **wwmogu@gmail.com**
 
-  - 😄 Pronouns: W / Dong
+  - 😄 Pronouns: he
 </details>
   
 <details>
